@@ -162,7 +162,7 @@
     <ClCompile Include="HW3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="abc.c">
+    <ClCompile Include="github.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
