@@ -1,0 +1,16 @@
+15
+0 Bulgogi korean 25
+1 Galbi korean 20
+2 Budaejjigae korean 24
+3 Gukbap korean 10
+4 Samgyeopsal korean 15
+5 Tempura japanese 13
+6 Ramen japanese 8
+7 Okonomiyaki japanese 24
+8 Udon japanese 22
+9 Sushi japanese 5
+10 DimSum chinese 30
+11 Charsiu chinese 23
+12 CenturyEgg chinese 11
+13 Shaobing chinese 16
+14 Xiaolongbao chinese 21

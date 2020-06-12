@@ -1,0 +1,11 @@
+10
+a OS
+b OS
+c cprogramming
+d cprogramming
+e systemprogramming
+f DB
+g DB
+h systemprogramming
+i AI
+j AI
